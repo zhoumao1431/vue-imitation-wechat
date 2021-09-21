@@ -1,0 +1,12 @@
+#wechat .wechat-list {
+    position: relative;
+    overflow-x: hidden;
+    z-index: 1;
+  }
+  #wechat .wechat-list .list-row {
+    height: 64px;
+    position: relative;
+    overflow: hidden;
+  }
+
+
